@@ -1,5 +1,4 @@
-@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
-@import url(//cdn.rawgit.com/hiun/NanumSquare/master/nanumsquare.css);
+@import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 @charset "UTF-8";
 
 /*common*/
@@ -18,10 +17,10 @@ body#mbga-pf-body,
 body#mbga-pf-body * {
 	line-height: 100%;
 	font-size: 13px;
-	font-family: "Nanum Square" monospace;
+	font-family: 'NanumSquare', sans-serif;
 }
 #mbga-pf-content {
-	font-family: "Nanum Square" monospace;
+	font-family: 'NanumSquare', sans-serif;
 	font-size: 16px;
 	_word-break: break-all;
 	_word-wrap: break-word;
@@ -29,7 +28,7 @@ body#mbga-pf-body * {
 #mbga-pf-content .mobile {
 	line-height: 1.1;
 	font-size: 15px;
-	font-family: "Nanum Square" monospace;
+	font-family: 'NanumSquare', sans-serif;
 }
 /* for footer boxes */
 
