@@ -17,6 +17,7 @@ body#mbga-pf-body,
 body#mbga-pf-body * {
 	line-height: 100%;
 	font-size: 13px;
+	font-weight: 800;
 	font-family: 'NanumSquare', sans-serif;
 }
 #mbga-pf-content {
